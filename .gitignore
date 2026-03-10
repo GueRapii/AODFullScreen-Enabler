@@ -1,6 +1,12 @@
+# Magisk Module build outputs
+*.zip
+
 # OS generated files
 .DS_Store
 Thumbs.db
 
-# IDE files
+# IDEs
 .vscode/
+.idea/
+*.swp
+*.bak
