@@ -43,7 +43,7 @@ Simply remove the module via Magisk/KernelSU and reboot. Your system features wi
 
 ## 📜 License
 
-Copyright © 2026 GueRapii & Gustavoppw (@randommodules).
+Copyright © 2026 GueRapii (@randommodules).
 This module is free to use. However, **copying, redistributing, or using this code in other scripts requires explicit permission** from the developer and must include proper attribution.
 
 ---
