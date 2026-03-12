@@ -32,7 +32,6 @@ Join our Telegram channel for updates or contact the developers directly:
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/randommodules)
 [![GueRapii](https://img.shields.io/badge/Chat-GueRapii-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GueRapii)
-[![Gustavoppw](https://img.shields.io/badge/Chat-Gustavoppw-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gustavoppw)
 
 ## ⚠️ Disclaimer
 
